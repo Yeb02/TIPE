@@ -1,3 +1,5 @@
+import sys
+sys.path.append(r'/home/edern/opencv_build/opencv/build/python_loader')
 import cv2, pygame, time
 
 def vol_photo(bebopVision, args):
